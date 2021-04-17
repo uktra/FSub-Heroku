@@ -22,4 +22,4 @@ class Messages():
         "[👨‍💻](https://telegra.ph/file/d2aca8153f6a5e139ab12.jpg) **DEVELOPED BY @Goku_kun**"
       ]
 
-      START_MSG = "**Hey! [👋](https://telegra.ph/file/0f8799ec342c196e2d23c.png) [{}](tg://user?id={})**\n\n● I Can Force Members To Join A Specific Channel Before Writing Messages In The Group.\n● Learn More At 👉 /help"
+      START_MSG = "**Hey! [👋](https://telegra.ph/file/0f8799ec342c196e2d23c.png) [{}](tg://user?id={})**\n\n● I Can Force Members To Join A Specific Channel Before Writing Messages In The Group.\n● Learn More At 👉 /help\n● Any issues then join @Anime_Chat_English and tag @Goku_Kun.\n● For watching Anime join @Anime_Wars.\n\nPowered by @AnimeKraze"
