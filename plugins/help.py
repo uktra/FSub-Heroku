@@ -42,10 +42,10 @@ def map(pos):
             [InlineKeyboardButton(text = '▶️', callback_data = "help+2")]
         ]
     elif(pos==len(tr.HELP_MSG)-1):
-        url = "https://github.com/DamienSoukara/FSub-Heroku"
+        url = "https://t.me/Anime_Wars"
         button = [
-            [InlineKeyboardButton(text = '🗣 Support Chat', url="https://t.me/damienhelp")],
-            [InlineKeyboardButton(text = '🤖 Source Code', url=url)],
+            [InlineKeyboardButton(text = 'Support Chat', url="https://t.me/Anime_Chat_English")],
+            [InlineKeyboardButton(text = 'Anime Channel', url=url)],
             [InlineKeyboardButton(text = '◀️', callback_data = f"help+{pos-1}")]
         ]
     else:
